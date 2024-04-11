@@ -1,11 +1,11 @@
 {
   "id": "dark",
-  "signature": "Best regards,",
-  "name": "The dark mail team",
-  "contactMain": "Call <a href='tel:004580100100'><span>(45) 80100100</span></a> or email us at",
-  "contactMail": "info@dark.dk",
-  "slogan": "LED Pylon. LED Wall. Digital Signage.",
-  "logoUrl": "/assets/dark.png",
-  "logoAlt": "dark logo",
-  "website": "http://dark.dk"
+  "signature": "Cheers,",
+  "name": "Chris Kavo",
+  "contactMain": "Call <a href='tel:+61 414 673 043'><span>(45) 80100100</span></a> or email me at",
+  "contactMail": "chris.kavo@conexusit.com.au",
+  "slogan": "Quality IT Solutions, Delivered On-time and to budget",
+  "logoUrl": "/assets/dark.png"
+  "logoAlt": "Ooops, My logo should be here",
+  "website": "https://linkedin.com/in/ckavo"
 }
